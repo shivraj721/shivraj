@@ -19,25 +19,7 @@ class Account
 	void setAn(int an){
 		accNo = an;
 	}
-	void setBal(int b){
-		bal = b;
-	}
-	int getAn(){
-		return accNo;
-	}
-	int getBal(){
-		return bal;
-	}
-	int deposit(int amt){
-		
-		bal = bal + amt;
-		
-		return bal;
-	}
-	int withdraw(int amt){
-		if(bal > amt)
-		{
-			bal = bal - amt;
+	= bal - amt;
 		}
 		else{
 			cout<<"Insufficient Balance"<<endl;
