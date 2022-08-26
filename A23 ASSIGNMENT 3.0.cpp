@@ -8,10 +8,7 @@ class Account
 	
 	public:
 	
-	Account(){
-		accNo = 0;
-		bal = 0;
-	}
+	
 	
 	= bal - amt;
 		}
