@@ -10,14 +10,7 @@ class Account
 	
 	
 	
-	= bal - amt;
-		}
-		else{
-			cout<<"Insufficient Balance"<<endl;
-		}	
-		return bal;
-	}
-	
+
 
 };
 
