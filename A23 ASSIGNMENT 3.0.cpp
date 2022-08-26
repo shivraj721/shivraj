@@ -24,10 +24,7 @@ class Account
 		}	
 		return bal;
 	}
-	void showBalance(){
-		cout<<"Account No.: "<<accNo<<endl<<"Balance: "<<bal<<endl;
-		cout<<"-------------------------------------------"<<endl;
-	}
+	
 
 };
 
