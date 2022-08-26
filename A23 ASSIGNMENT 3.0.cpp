@@ -15,11 +15,7 @@ class Account
 };
 
 int main(){
-	Account a1(126,600);
-	a1.showBalance();
-	a1.withdraw(100);
-	a1.showBalance();
-	a1.deposit(200);
+	Ac
 	a1.showBalance();
 
 }
