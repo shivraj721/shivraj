@@ -16,9 +16,7 @@ class Account
 		accNo = an;
 		bal = b;
 	}
-	void setAn(int an){
-		accNo = an;
-	}
+	
 	= bal - amt;
 		}
 		else{
