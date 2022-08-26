@@ -12,10 +12,6 @@ class Account
 		accNo = 0;
 		bal = 0;
 	}
-	Account(int an, int b){
-		accNo = an;
-		bal = b;
-	}
 	
 	= bal - amt;
 		}
